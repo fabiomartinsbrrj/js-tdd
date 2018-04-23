@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "JavaScript with TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiomartinsbrrj/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Fabio Martins <fabiomartinsbr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiomartinsbrrj/js-tdd/issues"
+  },
+  "homepage": "https://github.com/fabiomartinsbrrj/js-tdd#readme"
+}
